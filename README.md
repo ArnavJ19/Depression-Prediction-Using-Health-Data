@@ -1,4 +1,4 @@
-# Depression-Prediction-Using-Health-Data
+# Depressive Disorder Prediction
 The project involves analyzing the Behavioral Risk Factor Surveillance System (BRFSS) 2020 dataset to predict whether individuals have a depressive disorder. The dataset contains over 5000 records with a mix of categorical and numerical features, capturing health behaviors, conditions, and demographics of U.S. adults.
 
 The project begins with a thorough data preprocessing phase, which includes cleaning the dataset by removing irrelevant, redundant, and low-variance features. Missing values in both numerical and categorical attributes were handled using statistical techniques, such as mean or median for numerical values and mode for categorical ones. The dataset, initially imbalanced, was balanced using Synthetic Minority Over-sampling Technique (SMOTE) and Both Sampling techniques to ensure that the model performs well across all classes.
